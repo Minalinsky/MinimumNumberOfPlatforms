@@ -1,4 +1,9 @@
 # MinimumNumberOfPlatforms
+## Compilando
+#### Windows
+- Pelo terminal, compilar utilizando `javac MinimumNeededPlatforms.java`
+- Executar o código utilizando `java MinimumNeededPlatforms`
+
 ## Problema
 Encontre o número mínimo de plataformas necessárias em uma estação de forma a evitar qualquer
 atraso da chegada de qualquer trem.  

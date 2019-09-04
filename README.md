@@ -20,8 +20,20 @@ Nro mínimo de plataformas é 2.
 
 ## Entrada e Saída
 ### Formato da Entrada
+- A entrada é lida do arquivo `trainTimesInput.txt`, que contém intercaladamente os horários de chegada e de partida dos trens à estação. Por exemplo:  
+~~~
+trainTimesInput.txt
+2.00, 2.10, 3.00, 3.20, 3.50, 5.00 --> Chegada
+2.30, 3.40, 3.20, 4.30, 4.00, 5.20 --> Partida
+9.00, 9.40, 9.50, 11.00, 15.00, 18.00 --> Chegada
+9.10, 12.00, 11.20, 11.30, 19.00, 20.00 --> Partida
+9.04, 9.06, 9.22, 9.27, 15.08, 18.06 --> Chegada
+9.30, 9.40, 11.28, 11.35, 19.00, 20.01 --> Partida
+~~~
+- Um valor de entrada consiste em uma linha com os horários das Chegadas e das Partidas
 
 ### Formato da Saída
+- Para cada entrada do arquivo, a saída é dada através do terminal imprimindo a seguinte mensagem: `Minimum number of platforms: X`, onde 'X' é o número de plataformas necessárias para atender a demanda de trens na estação
 
 ## Estratégia Utilizada
 - O problema foi solucionado utilizando a estratégia gulosa

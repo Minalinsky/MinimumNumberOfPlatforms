@@ -1,0 +1,3 @@
+Minimum number of platforms: 2
+Minimum number of platforms: 3
+Minimum number of platforms: 4

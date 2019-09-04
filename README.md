@@ -41,5 +41,4 @@ trainTimesInput.txt
 - Mais informações a respeito da implementação podem ser encontrados nos comentários dentro do código-fonte
 
 #### Informações Extras
-- O código fonte encontra-se sob o diretório `./src/alyson_minimum_platforms/MinimumNeededPlatforms.java`
-- Para executar o código, basta baixar o projeto, adicionar na IDE de preferência (foi desenvolvido utilizando EclipseIDE - Version: 2019-06 (4.12.0)) e executá-lo.  Outra alternativa é criar um novo projeto com a IDE de preferência, importar/copiar o código-fonte do programa e executá-lo
+- O código fonte encontra-se sob o diretório raíz, no arquivo `./MinimumNeededPlatforms.java`

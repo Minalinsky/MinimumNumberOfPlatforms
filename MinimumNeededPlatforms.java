@@ -57,6 +57,7 @@ public static double[] convertStringArrayToDouble(String[] timesArray) {
       // sort arrival and departure times of trains
 		  Arrays.sort(arrivalTime);
 		  Arrays.sort(departureTime);
+      
 		  System.out.print("Minimum number of platforms: " + getMinimumNumberOfPlatforms(arrivalTime, departureTime) + "\n\n");
     }
 	}

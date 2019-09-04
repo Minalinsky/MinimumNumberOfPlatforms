@@ -34,6 +34,7 @@ trainTimesInput.txt
 
 ### Formato da Saída
 - Para cada entrada do arquivo, a saída é dada através do terminal imprimindo a seguinte mensagem: `Minimum number of platforms: X`, onde 'X' é o número de plataformas necessárias para atender a demanda de trens na estação
+- As saídas esperadas paraos valores de entrada em `trainTimesInput.txt` encontram-se no arquivo `trainExpectedOutput.txt`
 
 ## Estratégia Utilizada
 - O problema foi solucionado utilizando a estratégia gulosa
